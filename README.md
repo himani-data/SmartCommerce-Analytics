@@ -18,7 +18,7 @@ A clean and interactive **sales analysis dashboard built entirely in Microsoft E
 - Microsoft Excel  
 - Pivot Tables & Charts  
 - Slicers & Conditional Formatting  
-- Basic Excel formulas (SUMIFS, IF, COUNTIF)
+- Excel formulas (SUMIFS, IF, COUNTIF)
 
 ---
 
@@ -54,8 +54,8 @@ A clean and interactive **sales analysis dashboard built entirely in Microsoft E
 
 ## 📂 Files Included
 
-- `SmartCommerceAnalytics.xlsx` – Excel dashboard  
-- `raw_data.xlsx` – Source data  
+- `SmartCommerceAnalytics.xlsx` – Excel Data  
+- `EEXCEL_DASHBOARD` –  Dashboard
 - `README.md` – Project summary
 
 ---
@@ -66,7 +66,7 @@ A clean and interactive **sales analysis dashboard built entirely in Microsoft E
 Final-year Computer Science student | Data Analyst Enthusiast  
 Love turning raw data into real insights 📊💡
 
-[LinkedIn](#) • [Email](#)
+[LinkedIn](www.linkedin.com/in/himaniverma2604) • [Email](mahenderverma646@gmail.com)
 
 ---
 
