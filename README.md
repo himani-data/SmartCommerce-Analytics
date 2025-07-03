@@ -57,6 +57,7 @@ A clean and interactive **sales analysis dashboard built entirely in Microsoft E
 - `SmartCommerceAnalytics.xlsx` – Excel Data  
 - `EEXCEL_DASHBOARD` –  Dashboard
 - `README.md` – Project summary
+ - `Dashboard_Highlights` – Project summary PDF
 
 ---
 
