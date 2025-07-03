@@ -48,7 +48,7 @@ A clean and interactive **sales analysis dashboard built entirely in Microsoft E
 ## 📸 Dashboard Preview
 
 *(Add your screenshot image here)*  
-![Excel Dashboard Preview]("C:\Users\mahen\OneDrive\Pictures\EXCEL DASHBOARD.png")
+![Excel Dashboard Preview](".\EXCEL DASHBOARD.png")
 
 ---
 
