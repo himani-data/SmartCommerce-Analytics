@@ -46,9 +46,9 @@ A clean and interactive **sales analysis dashboard built entirely in Microsoft E
 ---
 
 ## 📸 Dashboard Preview
+ 
+![Excel Dashboard Preview](./EXCEL_DASHBOARD.png)
 
-*(Add your screenshot image here)*  
-![Excel Dashboard Preview](".\EXCEL DASHBOARD.png")
 
 ---
 
@@ -63,7 +63,7 @@ A clean and interactive **sales analysis dashboard built entirely in Microsoft E
 ## 👩‍💻 About Me
 
 **Himani Verma**  
-Final-year Computer Science student | Excel Enthusiast  
+Final-year Computer Science student | Data Analyst Enthusiast  
 Love turning raw data into real insights 📊💡
 
 [LinkedIn](#) • [Email](#)
