@@ -67,7 +67,7 @@ A clean and interactive **sales analysis dashboard built entirely in Microsoft E
 Final-year Computer Science student | Data Analyst Enthusiast  
 Love turning raw data into real insights 📊💡
 
-[LinkedIn](www.linkedin.com/in/himaniverma2604) • [Email](mahenderverma646@gmail.com)
+[LinkedIn]() • [Email](mahenderverma646@gmail.com)
 
 ---
 
